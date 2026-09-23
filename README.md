@@ -1,19 +1,39 @@
-# Hey, I'm Aryan 👋
+# Hi, I'm Aryan 👋
 
-### B.Tech CSE Student | Aspiring AI Engineer
+### B.Tech CSE Student | Aspiring Software Engineer
 
-I'm building my foundations in programming, problem-solving, machine learning, and generative AI.
+I'm currently building my foundation in software engineering through programming, problem solving, and consistent hands-on practice.
 
-## 🚀 Currently Learning
+## 🎯 Current Focus
 
-- Python
+- C++ & Programming Fundamentals
 - Data Structures & Algorithms
+- Problem Solving & Logical Thinking
 - Git & GitHub
+- Computer Science Fundamentals
 
-## 🎯 Goal
+## 🚀 Long-Term Direction
 
-Building toward AI Engineering with strong software engineering and machine learning foundations.
+**Software Engineering → Backend Engineering → AI Integration**
 
-## 📚 Current Focus
+## 🛠️ Learning Approach
 
-Python • DSA • SQL • Machine Learning • GenAI
+Learn → Understand → Practice → Build → Debug → Improve
+
+## 📌 Currently Building
+
+- C++ programming fundamentals
+- Problem-solving skills
+- DSA foundation
+- Developer workflow with Git & GitHub
+
+## 📚 Areas I'm Working Toward
+
+- Backend Development
+- Databases & APIs
+- System Design
+- AI-powered Applications
+
+---
+
+> Building skills one problem, one project, and one commit at a time.
