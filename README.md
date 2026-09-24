@@ -2,15 +2,15 @@
 
 ### B.Tech CSE Student | Aspiring Software Engineer
 
-I'm currently building my foundation in software engineering through programming, problem solving, and consistent hands-on practice.
+I'm currently building a strong foundation in software engineering through programming, problem solving, and hands-on development.
 
 ## 🎯 Current Focus
 
-- C++ & Programming Fundamentals
+- Java & Programming Fundamentals
 - Data Structures & Algorithms
 - Problem Solving & Logical Thinking
 - Git & GitHub
-- Computer Science Fundamentals
+- Core Computer Science Fundamentals
 
 ## 🚀 Long-Term Direction
 
@@ -22,7 +22,7 @@ Learn → Understand → Practice → Build → Debug → Improve
 
 ## 📌 Currently Building
 
-- C++ programming fundamentals
+- Java programming fundamentals
 - Problem-solving skills
 - DSA foundation
 - Developer workflow with Git & GitHub
